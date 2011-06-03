@@ -214,6 +214,7 @@
 				);
 				PRODUCT_NAME = facebook_ios_sdk;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -233,6 +234,7 @@
 				);
 				PRODUCT_NAME = facebook_ios_sdk;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
@@ -292,6 +294,7 @@
 				);
 				PRODUCT_NAME = facebook_ios_sdk;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = "Ad Hoc";
 		};
@@ -324,6 +327,7 @@
 				);
 				PRODUCT_NAME = facebook_ios_sdk;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = AppStore;
 		};
